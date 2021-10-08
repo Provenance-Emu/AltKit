@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "AltKit",
     platforms: [
-        .iOS(.v12),
+        .iOS(.v11),
         .tvOS(.v12)
     ],
     products: [
